@@ -8,8 +8,7 @@ atlanTTic Research Center, University of Vigo, E.E. de Telecomunicacion - Vigo, 
 
 ### Remove frequency peaks from an image
 
-_Remove frequency peaks from the Fourier spectrum of an image with periodicity $P = 8$ or $P = 16$.
-_
+_Remove frequency peaks from the Fourier spectrum of an image with periodicity $P = 8$ or $P = 16$._
 #### Input arguments
 
 1. `--in_path` specifies the path to the input image
