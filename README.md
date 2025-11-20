@@ -8,7 +8,7 @@ Sara Mandelli, Diego Vila-Portela, David Vázquez-Padín, Fernando Pérez-Gonzá
 
 atlanTTic Research Center, University of Vigo, E.E. de Telecomunicacion - Vigo, Spain
 
-### Remove frequency peaks from an image
+### Code to remove frequency peaks from an image
 
 _Remove frequency peaks from the Fourier spectrum of an image with periodicity P = 8 or P = 16._
 #### Input arguments
