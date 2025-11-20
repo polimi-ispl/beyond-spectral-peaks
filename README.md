@@ -1,5 +1,7 @@
 # Beyond Spectral Peaks: Interpreting the Cues Behind Synthetic Image Detection
 
+[**Beyond Spectral Peaks: Interpreting the Cues Behind Synthetic Image Detection**](https://arxiv.org/pdf/2510.05633?), currently under review
+
 Sara Mandelli, Diego Vila-Portela, David Vázquez-Padín, Fernando Pérez-González, Paolo Bestagini
 
 [Image and Sound Processing Lab - Politecnico di Milano](http://ispl.deib.polimi.it/)
@@ -23,3 +25,14 @@ python rm_peaks.py --in_path $PATH_TO_INPUT_IMAGE
 ### Additional results on real and laundered images
 
 Additional results of state-of-the-art detectors on real images and their laundered versions can be found in [additional_results_real_laundered](additional_results_real_laundered.pdf)
+
+## How to cite
+
+```bibtex
+@article{mandelli2025beyond,
+  title={Beyond Spectral Peaks: Interpreting the Cues Behind Synthetic Image Detection},
+  author={Mandelli, Sara and Vila-Portela, Diego and V{\'a}zquez-Pad{\'\i}n, David and Bestagini, Paolo and P{\'e}rez-Gonz{\'a}lez, Fernando},
+  journal={arXiv preprint arXiv:2510.05633},
+  year={2025}
+}
+```
