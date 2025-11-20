@@ -8,7 +8,7 @@ atlanTTic Research Center, University of Vigo, E.E. de Telecomunicacion - Vigo, 
 
 ### Remove frequency peaks from an image
 
-_Remove frequency peaks from the Fourier spectrum of an image with periodicity $P = 8$ or $P = 16$._
+_Remove frequency peaks from the Fourier spectrum of an image with periodicity P = 8 or P = 16._
 #### Input arguments
 
 1. `--in_path` specifies the path to the input image
@@ -16,7 +16,7 @@ _Remove frequency peaks from the Fourier spectrum of an image with periodicity $
 3. `--mask_radius` specifies the radius of the disk-element used for the dilation of the binary mask.
 4. `--grid_step` specifies the periodicity of the grid built to remove the peaks (this correponds to $P$).
 
-#### Example of test with $P = 8$
+#### Example of test with P = 8
 ```bash
 python rm_peaks.py --in_path $PATH_TO_INPUT_IMAGE
 ```
