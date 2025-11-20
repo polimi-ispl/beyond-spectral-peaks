@@ -20,3 +20,6 @@ _Remove frequency peaks from the Fourier spectrum of an image with periodicity P
 ```bash
 python rm_peaks.py --in_path $PATH_TO_INPUT_IMAGE
 ```
+### Additional results on real and laundered images
+
+Additional results of state-of-the-art detectors on real images and their laundered versions can be found in [additional_results_real_laundered](#additional_results_real_laundered)
